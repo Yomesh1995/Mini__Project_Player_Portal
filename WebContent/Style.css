@@ -1,0 +1,28 @@
+@charset "ISO-8859-1";
+
+.mheader {
+	background-color: black;
+	color: white;
+	text-align: center;
+	min-height: 30%;
+}
+
+.mfoot {
+	background-color: black;
+	text-align: right;
+	min-height: 30%;
+}
+
+.page-header {
+	margin: 0px;
+}
+
+.nav-tabs>li {
+	float: none;
+	display: inline-block;
+	zoom: 1;
+}
+
+.nav-tabs {
+	text-align: center;
+}
